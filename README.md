@@ -15,12 +15,12 @@ Built using **Kotlin**, **Android Studio**, and custom drawing logic.
 
 
 ### Tracing Screen
-![Aa Tracing](screenshot1.png)
+![Aa Tracing](Screenshot1.png)
 
 
 ### Android Studio Project Tree
-![Project Tree](screenshot2.png)
-![Project Tree](screenshot3.png)
+![Project Tree](Screenshot2.png)
+![Project Tree](Screenshot3.png)
 
 ## 🛠️ Tech Stack
 - Kotlin
