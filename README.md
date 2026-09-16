@@ -43,3 +43,7 @@ Users trace the letter using touch events.
 - Add shapes and colors
 - Add a main menu with A–Z buttons
 - Add Alphabet selector
+  
+## 📦 APK Download
+You can install the app using the included file:  
+[Download APK](tracealphabet.apk)
