@@ -12,7 +12,14 @@ Built using **Kotlin**, **Android Studio**, and custom drawing logic.
 - Offline and lightweight
 
 ## 📸 Screenshots
-(Add screenshots here — e.g., Aa tracing screen, alphabet selector, Android Studio project tree)
+
+
+### Tracing Screen
+![Aa Tracing](screenshots/Aa_tracing.png)
+
+
+### Android Studio Project Tree
+![Project Tree](screenshots/Project_tree.png)
 
 ## 🛠️ Tech Stack
 - Kotlin
