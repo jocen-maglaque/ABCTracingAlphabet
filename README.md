@@ -15,11 +15,12 @@ Built using **Kotlin**, **Android Studio**, and custom drawing logic.
 
 
 ### Tracing Screen
-![Aa Tracing](screenshots/Aa_tracing.png)
+![Aa Tracing](screenshot1.png)
 
 
 ### Android Studio Project Tree
-![Project Tree](screenshots/Project_tree.png)
+![Project Tree](screenshot2.png)
+![Project Tree](screenshot3.png)
 
 ## 🛠️ Tech Stack
 - Kotlin
@@ -41,3 +42,4 @@ Users trace the letter using touch events.
 - Add numbers 1–10 tracing
 - Add shapes and colors
 - Add a main menu with A–Z buttons
+- Add Alphabet selector
