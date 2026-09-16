@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TracingAlphabet</string>
+    <string name="tracing_letter">Tracing Letter</string>
+</resources>
