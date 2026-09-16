@@ -26,12 +26,12 @@ Built using **Kotlin**, **Android Studio**, and custom drawing logic.
 - Kotlin
 - Android Studio
 - XML Layouts
-- Canvas Drawing
+- Photoshop editing
 - Bitmap Manipulation
 
 ## 📦 APK Download
 You can install the app using the included file:  
-`app-debug.apk`
+[Download APK](tracealphabet.apk)
 
 ## 🔧 How It Works
 The app loads a tracing image (Aa–Zz) and overlays a custom drawing canvas.  
@@ -44,6 +44,4 @@ Users trace the letter using touch events.
 - Add a main menu with A–Z buttons
 - Add Alphabet selector
   
-## 📦 APK Download
-You can install the app using the included file:  
-[Download APK](tracealphabet.apk)
+
